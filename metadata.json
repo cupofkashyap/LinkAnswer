@@ -1,0 +1,6 @@
+{
+  "name": "LinkAnswer",
+  "description": "Auto-answer calls when specific Bluetooth/BLE accessories connect, with customizable notification sounds and battery life optimizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
